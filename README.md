@@ -4,6 +4,7 @@
 
 server：
   src/com/greatfree/testing/server/StartServer.java    【server可以直接运行】
+
 client：
   src/com/greatfree/testing/client/TestStartClient.java    【client端运行的时候需要传递一个命令行参数，这个参数就是你的昵称】
  
